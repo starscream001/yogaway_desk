@@ -1,38 +1,7 @@
-function ilya() {
-  window.open("https://starscream001.github.io/vsew_iwco/", "_blank");
+function rrr() {
+  window.open("#", "_blank");
 }
 
-function roza() {
-  window.open("https://rozaliamanik.github.io/vsev_yoga/", "_blank");
-}
-
-function max() {
-  window.open("https://t.me/wing_chun_Dmitrichenko", "_blank");
-}
-
-function sofia() {
-  window.open("https://t.me/sofidances", "_blank");
-}
-
-function julia() {
-  window.open("https://t.me/Juliya_Drako", "_blank");
-}
-
-function natalia() {
-  window.open("https://vk.com/yoga_vsevolojsk", "_blank");
-}
-
-function ira() {
-  window.open("tel:+79312101923", "_blank");
-}
-
-function lena() {
-  window.open("https://elenanumelen.github.io/numelen/", "_blank");
-}
-
-function nadia() {
-  window.open("https://t.me/nadejda_lubov", "_blank");
-}
 
 function pcfr() {
   window.open("#", "_blank");
@@ -160,3 +129,4 @@ const deviceWidth = window.matchMedia("(max-width:767px)");
 if(deviceWidth.matches) {
     auto();
 }
+
